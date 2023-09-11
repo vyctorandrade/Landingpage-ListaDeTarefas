@@ -58,3 +58,6 @@ function App() {
 }
 
 export default App
+
+
+// 38:56 min https://www.youtube.com/watch?v=YVEVrigByKY
